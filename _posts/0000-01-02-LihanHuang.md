@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-How to add emoji
+:smile:
 Use the left arrow to go back!
